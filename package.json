@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo-en-javascript",
+  "version": "1.0.0",
+  "description": "proyecto relacionado a curso de asincronismo en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "async",
+    "await",
+    "promesas",
+    "promises"
+  ],
+  "author": "",
+  "license": "MIT"
+}
